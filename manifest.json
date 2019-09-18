@@ -16,6 +16,6 @@
       "sizes": "192x192",
       "type": "image/png"
     }],
-  "start_url": "https://example.com/",
+  "start_url": "./?utm_source=homescreen",
   "display": "standalone"
 }
