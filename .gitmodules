@@ -1,0 +1,3 @@
+[submodule "timekeeper"]
+	path = timekeeper
+	url = https://github.com/shuheiokuda0704/timekeeper.git
